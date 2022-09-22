@@ -1,0 +1,3 @@
+﻿  Number2.cpp
+C:\Users\intre\source\repos\Lab2C++\Number2\Number2\Number2.cpp(47): warning C4715: Faction::gcd: значение возвращается не при всех путях выполнения
+  Number2.vcxproj -> C:\Users\intre\source\repos\Lab2C++\Number2\Debug\Number2.exe
